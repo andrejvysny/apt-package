@@ -1,1 +1,1 @@
-# apt-package
+# debian-package
