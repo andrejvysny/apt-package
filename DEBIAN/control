@@ -1,0 +1,6 @@
+Package: my-custom-package
+Version: 1.0
+Architecture: all
+Maintainer: Your Name your.email@example.com
+Depends: python3
+Description: Description of your custom package
